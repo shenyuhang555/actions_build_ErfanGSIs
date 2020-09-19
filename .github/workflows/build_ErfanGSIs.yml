@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/9.10.10/miui_MINote2_9.10.10_d84e44a760_8.0.zip
+  ROM_URL: https://bigota.d.miui.com/9.9.26/miui_MIMIX_9.9.26_6fec175e2b_8.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
